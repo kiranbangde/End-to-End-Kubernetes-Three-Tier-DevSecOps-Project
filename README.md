@@ -80,3 +80,13 @@ write userdata
     7  aws s3 help 
     8  trivy --help
     9  docker ps
+## for jenins 
+
+1. take the public ip of instance hitt it
+2. ip:8080
+3. jenkins server will start
+4. install plugins
+5. manage plugins -
+6. plugins : install
+7. aws credential  and pipeline:aws steps
+8. 
