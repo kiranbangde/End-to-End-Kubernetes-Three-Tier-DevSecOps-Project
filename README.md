@@ -68,4 +68,15 @@ write userdata
 
 ## connnect to ec2 
 
-sudo top
+ hit command -"sudo top" in the insatance 
+ hit command to check the installation -
+
+ sudo top
+    2  java -v 
+    3  java --version 
+    4  jenkins --version 
+    5  terraform --version 
+    6  docker version 
+    7  aws s3 help 
+    8  trivy --help
+    9  docker ps
