@@ -65,3 +65,7 @@ Happy Coding! 🚀
 ##install instance 
 with ubuntu image , instancetype-t2.xlarge, securitygroup- 9000, 8080, Attach IAM PROFILE- , for that create role , create new role - choose the create role , select ec2 , assign admistrativefullaccess, create .
 write userdata 
+
+## connnect to ec2 
+
+sudo top
