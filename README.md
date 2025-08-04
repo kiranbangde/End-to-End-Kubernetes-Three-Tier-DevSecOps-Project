@@ -58,3 +58,10 @@ We welcome contributions! If you have ideas for enhancements or find any issues,
 This project is licensed under the [MIT License](LICENSE).
 
 Happy Coding! 🚀
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+##install instance 
+with ubuntu image , instancetype-t2.xlarge, securitygroup- 9000, 8080, Attach IAM PROFILE- , for that create role , create new role - choose the create role , select ec2 , assign admistrativefullaccess, create .
+write userdata 
